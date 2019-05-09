@@ -10,7 +10,6 @@ excerpt:
 categories: Logo Development
 ---
 
-### Amazon: Leader In The Cloud Computing Space - Amazon.com, Inc. (NASDAQ:AMZN)
 
 I am sure many investors have come across the term "cloud computing" by now. It may sound highly technical, but I will try my best in this article to cut through the jargon and present an investment thesis on the cloud computing business model.
 
