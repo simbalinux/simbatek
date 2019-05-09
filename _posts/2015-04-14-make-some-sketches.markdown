@@ -9,13 +9,12 @@ excerpt:
 
 categories: Logo Development
 ---
-[Source](https://seekingalpha.com/article/4260340-amazon-leader-cloud-computing-space 
 
-## Amazon: Leader In The Cloud Computing Space - Amazon.com, Inc. (NASDAQ:AMZN)
+### Amazon: Leader In The Cloud Computing Space - Amazon.com, Inc. (NASDAQ:AMZN)
 
 I am sure many investors have come across the term "cloud computing" by now. It may sound highly technical, but I will try my best in this article to cut through the jargon and present an investment thesis on the cloud computing business model.
 
-## So, what is cloud computing in simple terms?
+### So, what is cloud computing in simple terms?
 
 Cloud computing basically refers to _shared_ computing resources, which could refer to software, analytics, storage, databases, etc. _Shared, _primarily because service providers (think Amazon, Microsoft, Salesforce) will manage these resources and companies can then access them on a pay-to-go or subscription basis. The chosen service provider becomes a one-stop shop for their clients.
 
@@ -23,7 +22,7 @@ A decade ago, companies would spend large capital costs buying hardware and soft
 
 Essentially, companies can choose the types of services (software, data storage, analytics etc.) they require, and only pay for those. The payments are recurring, via a subscription model.
 
-## Subscription business models provide a key source of recurring income for cloud computing service providers
+### Subscription business models provide a key source of recurring income for cloud computing service providers
 
 A subscription business model leads to a steady source of recurring income. Think of Netflix's ([NFLX][1]) business model, where viewers at home can gain access to a suite of movies and films, or at an inexpensive subscription fee that is paid monthly. The nature of this stream of revenue is more smooth and stable, compared to "lumpy" revenue derived from sales of hardware or products.
 
@@ -35,7 +34,7 @@ I would like to share an excerpt from a [McKinsey interview][2] with Mark Garret
 
 > _"During the downturn in 2008 and 2009, our revenue and stock price suffered more than that of most software companies, because other companies had high recurring revenue. Our recurring revenue for the prior fiscal year was about 5 percent annually. We had virtually no financial buffer."_
 
-## Now, looking at the cloud computing market, this market is growing rapidly at an expected CAGR of 19% from 2015 to 2020
+### Now, looking at the cloud computing market, this market is growing rapidly at an expected CAGR of 19% from 2015 to 2020
 
 In 2020, the market size is expected to be worth $162 billion. This, compared to 2015, when the market was worth only $67 billion. The cloud computing market is expected to expand by about 2.5x in 5 years.
 
@@ -65,7 +64,6 @@ Amazon is currently trading about 4% below its all-time highs, and I firmly beli
 
 Amazon Web Services currently dominates the cloud computing industry with close to a third of market share. I believe there will be further consolidation in this space, with Amazon's scale and expertise likely to see it enhance its leadership position. If so, using my aforementioned conservative calculations, revenues from AWS will likely increase as a proportion to the company's overall revenue.
 
-**Disclosure:** I/we have no positions in any stocks mentioned, and no plans to initiate any positions within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.
 
 [1]: https://seekingalpha.com/symbol/NFLX "Netflix, Inc."
 [2]: https://www.mckinsey.com/business-functions/digital-mckinsey/our-insights/reborn-in-the-cloud
