@@ -12,22 +12,22 @@
   name: Vince Delgado 
   position: President of Sales 
   socials:
-    - link: http://twitter.com
-      icon: twitter
-    - link: http://facebook.com
-      icon: facebook
-    - link: http://tumblr.com
-      icon: tumblr
+#    - link: http://twitter.com
+#      icon: twitter
+#    - link: http://facebook.com
+#      icon: facebook
+#    - link: http://tumblr.com
+#      icon: tumblr
   desc:
     Vince take the time to get to know each client and makes sure everyone is completely dialed in on the value add of our Cloud Services.
 - avatar: images/@stock/member-3.jpg
   name: Michael Belz 
   position: Cloud Architect 
   socials:
-    - link: http://twitter.com
-      icon: twitter
-    - link: http://facebook.com
-      icon: facebook
+#    - link: http://twitter.com
+#      icon: twitter
+#    - link: http://facebook.com
+#      icon: facebook
     - link: http://www.linkedin.com/in/simbatek/
       icon: linkedin 
   desc:
