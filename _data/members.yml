@@ -1,0 +1,39 @@
+- avatar: images/@stock/member-1.jpg
+  name: Katie Belz 
+  position: Founder
+  socials:
+    - link: http://twitter.com
+      icon: twitter
+    - link: https://www.linkedin.com/in/katie-b-5b722825/ 
+      icon: linkedin 
+  desc:
+    Background in Medical sales and consulting, Katie is always helping entrepreneurs and small business maximize profit while decreasing expenditures.
+- avatar: images/@stock/member-2.jpg
+  name: Vince Delgado 
+  position: President of Sales 
+  socials:
+    - link: http://twitter.com
+      icon: twitter
+    - link: http://facebook.com
+      icon: facebook
+    - link: http://tumblr.com
+      icon: tumblr
+  desc:
+    Vince take the time to get to know each client and makes sure everyone is completely dialed in on the value add of our Cloud Services.
+- avatar: images/@stock/member-3.jpg
+  name: Michael Belz 
+  position: Cloud Architect 
+  socials:
+    - link: http://twitter.com
+      icon: twitter
+    - link: http://facebook.com
+      icon: facebook
+    - link: http://www.linkedin.com/in/simbatek/
+      icon: linkedin 
+  desc:
+    With over 15 years of Linux experience working as an engineer, devops, and cloud professional.
+- avatar: images/@stock/member-4.jpg
+  name: Are you Awesome? 
+  position: Developers & Sales
+  desc:
+    We are always looking for talented software developers and sales representative send us a copy of your resume and we would love to reach out.
