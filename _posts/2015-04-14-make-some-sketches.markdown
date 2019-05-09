@@ -6,7 +6,7 @@ images:
   - images/@stock/blog-3.jpg
 #  - images/@stock/blog-2.jpg
 excerpt:
-SEATTLE--(BUSINESS WIRE)--May 7, 2019--Amazon (NASDAQ:AMZN) today published the 2019 SMB Impact Report highlighting how the company benefits the millions of small and medium-sized businesses (SMBs), content creators, and developers in the U.S. and worldwide working with Amazon. SMBs are growing their businesses with Amazon by selling in Amazon’s stores, publishing via Kindle Direct Publishing, using Amazon Web Services, as well as operating as a delivery service provider and building Alexa skills and devices. This year’s report revealed findings from across Amazon’s businesses, including: More than 1.9 million SMBs, content creators, and developers in the U.S. are currently working with Amazon; SMBs selling in Amazon’s stores have created an estimated 1.6 million jobs worldwide, up from 900,000 in 2017; thousands of independent authors earned more than $50,000, with more than a thousand surpassing $100,000 in royalties in 2018; Amazon gave more than $500 million in AWS credits to help startups accelerate their growth and development in 2018.
+
 categories: Logo Development
 ---
 
