@@ -2,8 +2,8 @@
   name: Katie Belz 
   position: Founder
   socials:
-    - link: http://twitter.com
-      icon: twitter
+#    - link: http://twitter.com
+#      icon: twitter
     - link: https://www.linkedin.com/in/katie-b-5b722825/ 
       icon: linkedin 
   desc:
